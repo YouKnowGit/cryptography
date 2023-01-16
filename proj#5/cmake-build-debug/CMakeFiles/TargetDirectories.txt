@@ -1,0 +1,3 @@
+/home/youknow/workspace/proj#5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/youknow/workspace/proj#5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/youknow/workspace/proj#5/cmake-build-debug/CMakeFiles/proj_5.dir

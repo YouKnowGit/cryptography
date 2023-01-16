@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/proj_5.dir/pkcs.c.o  -o proj_5 

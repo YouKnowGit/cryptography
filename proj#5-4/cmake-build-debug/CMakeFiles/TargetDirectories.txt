@@ -1,0 +1,3 @@
+/home/youknow/workspace/cryptography/proj#5-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/youknow/workspace/cryptography/proj#5-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/youknow/workspace/cryptography/proj#5-4/cmake-build-debug/CMakeFiles/proj_5_4.dir
